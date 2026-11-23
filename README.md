@@ -10,6 +10,13 @@
 
 App 内"设置 → 关于应用"同时展示两条地址：`项目地址（原作者）` 与 `点读笔专用版地址`。
 
+## 下载
+
+最新安装包在 [Releases](https://github.com/Satellite18111/blbl-pen/releases/latest)：
+
+- `Blbl-0.1.29-pen11.apk`（5.0 MB，release 签名，Android 6.0 / armeabi-v7a 可直接安装）
+- 从上游原版换过来需先卸载；同一签名的新版可覆盖安装
+
 ## 界面预览
 
 点读笔 A20Pro（258×960，安卓6.0）实拍：
