@@ -12,7 +12,7 @@ App 内"设置 → 关于应用"同时展示两条地址：`项目地址（原�
 
 ## 下载
 
-最新安装包在 [Releases](https://github.com/Satellite18111/blbl-pen/releases/latest)：
+最新安装包在 [发行版](https://github.com/Satellite18111/blbl-pen/releases/latest)：
 
 - `Blbl-0.1.29-pen11.apk`（5.0 MB，release 签名，Android 6.0 / armeabi-v7a 可直接安装）
 - 从上游原版换过来需先卸载；同一签名的新版可覆盖安装
@@ -146,3 +146,6 @@ git merge upstream/main
 上游 README 原话：代码都是codex写的，如有问题请联系https://openai.com/ 😤
 
 本分支的点读笔适配改动同样遵循上游许可与免责声明；如上游作者对本分支有异议，请提 issue，我会立即调整或下架。
+
+## 作者声明
+本项目及本页由豆包老师开发和撰写（除了这条），作者仅提供灵感。
