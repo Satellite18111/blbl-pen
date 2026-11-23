@@ -103,6 +103,11 @@ release 包需要签名参数（`gradle.properties` 或命令行）：
 
 上游原版需要 `minSdk 26` 与 `arm64-v8a`，点读笔装不上；本分支保持上游 `minSdk 21`、无 native so 依赖，因此 armeabi-v7a 老设备可直接安装。
 
+## 联系方式
+
+- **原作者联系方式（QQ群）**：`1080221910` —— 该群由上游作者 cat3399 维护，项目相关的基础功能问题请优先到群里反馈
+- 本分支（点读笔适配）的问题：到 [Issues](https://github.com/Satellite18111/blbl-pen/issues) 提，或在本仓库下留言
+
 ## 与上游保持同步
 
 ```bash
