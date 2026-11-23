@@ -1606,7 +1606,7 @@ class SettingsInteractionHandler(
                 )
 
             SettingId.QqGroup -> {
-                copyToClipboard(label = "QQ交流群", text = SettingsConstants.QQ_GROUP, toastText = "已复制群号：${SettingsConstants.QQ_GROUP}")
+                copyToClipboard(label = "QQ交流群（原作者）", text = SettingsConstants.QQ_GROUP, toastText = "已复制原作者群号：${SettingsConstants.QQ_GROUP}")
             }
 
             SettingId.PlayerKernelCheck -> handlePlayerKernelCheck()

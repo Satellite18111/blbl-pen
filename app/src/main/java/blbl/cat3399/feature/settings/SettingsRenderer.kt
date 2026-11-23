@@ -501,7 +501,7 @@ class SettingsRenderer(
                     SettingEntry(SettingId.AppVersion, "版本", BuildConfig.VERSION_NAME, null),
                     SettingEntry(SettingId.ProjectUrl, "项目地址（原作者）", SettingsConstants.PROJECT_URL, null),
                     SettingEntry(SettingId.PenProjectUrl, "点读笔专用版地址", SettingsConstants.PEN_PROJECT_URL, "本分支源码与更新日志"),
-                    SettingEntry(SettingId.QqGroup, "QQ交流群", SettingsConstants.QQ_GROUP, null),
+                    SettingEntry(SettingId.QqGroup, "原作者联系方式（QQ群）", SettingsConstants.QQ_GROUP, "上游 cat3399 的交流群"),
                     SettingEntry(SettingId.LogTag, "日志标签", "BLBL", "用于 Logcat 过滤"),
                     SettingEntry(SettingId.ExportLogs, "导出日志", "保存文件", null),
                     SettingEntry(SettingId.UploadLogs, "上传日志", "点击上传", "打包并上传日志zip到开发者（含设备/版本/非登录配置元数据）"),
