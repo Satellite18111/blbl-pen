@@ -112,7 +112,6 @@ release 包需要签名参数（`gradle.properties` 或命令行）：
 
 ## 联系方式
 
-- **原作者联系方式（QQ群）**：`1080221910` —— 该群由上游作者 cat3399 维护，项目相关的基础功能问题请优先到群里反馈
 - 本分支（点读笔适配）的问题：到 [Issues](https://github.com/Satellite18111/blbl-pen/issues) 提，或在本仓库下留言
 
 ## 与上游保持同步
